@@ -19,6 +19,8 @@ sonar {
     properties {
         property "sonar.projectKey", "TesteSonar"
         property "sonar.host.url", "http://192.168.0.158:9000"
+        property "sonar.login", "admin"
+        property "sonar.password", "1234"
     }
 }
 
