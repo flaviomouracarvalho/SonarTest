@@ -17,7 +17,7 @@ dependencies {
 
 sonar {
     properties {
-        property "sonar.projectKey", "squ_ead31de639e7ec700abca95048e3fb7fcbf0d362"
+        property "sonar.projectKey", "TesteSonar"
         property "sonar.host.url", "http://192.168.0.158:9000"
     }
 }
